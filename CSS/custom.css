@@ -1,0 +1,71 @@
+body{
+	margin: 0;
+}
+.container{
+
+  width: 910px;
+  min-height: 430px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #a2bed73b;
+	margin-top: 31px;
+box-shadow: 0 0px 14px;
+}
+
+.box1{
+	width: 33.1%;
+	height: 100px;
+	float: left;
+	margin-right: 2px;
+}
+
+.box2{
+	width: 100%;
+  height: 100px;
+  float: left;
+  margin-top: 10px;
+}
+
+.box3{
+	width: 49.78%;
+	height:100px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 2px;
+}
+
+
+.box4{
+	width: 69.78%;
+	height:100px;
+	float: left;
+	margin-top: 10px;
+	margin-right: .5px;
+}
+
+.box5{
+	width: 14.78%;
+	height: 100px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 2px;
+}
+
+
+/* color */
+.aquamarine{
+	
+	background-color: aquamarine;
+}
+.orange {
+	background-color: orange;
+}
+.green{
+	background-color: green;
+}
+.red{
+	background-color: red;
+}
+.yellow{
+	background-color: yellow;
+}
